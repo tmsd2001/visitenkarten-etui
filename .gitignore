@@ -1,0 +1,10 @@
+# OpenSCAD Backup- und temporäre Dateien
+*~
+*.bak
+*.tmp
+*.deps
+
+# OS-spezifische Systemdateien
+.DS_Store
+Thumbs.db
+desktop.ini
